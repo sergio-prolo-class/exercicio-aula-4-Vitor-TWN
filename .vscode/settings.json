@@ -9,5 +9,6 @@
     ],
     "html-css-class-completion.CSSLanguages": [
         "css"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
